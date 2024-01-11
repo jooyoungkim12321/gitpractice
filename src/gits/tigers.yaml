@@ -11,4 +11,5 @@ members:
   - George
   
 fetch: this
-fetch2: this2
+
+fetch2: this
